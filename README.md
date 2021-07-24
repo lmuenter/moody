@@ -7,9 +7,8 @@
 
 <!-- badges: end -->
 
-This app is a digital diary and mood tracker. The goal of {moody} is to
-track your wellbeing together with a factor which impacts your daily
-life.
+A digital diary and mood tracker. The goal of {moody} is to track your
+wellbeing, together with a factor which impacts your daily life.
 
 ## Installation
 
