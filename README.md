@@ -12,7 +12,8 @@ wellbeing, together with a factor which impacts your daily life.
 
 ## Installation
 
-You can the development version from [GitHub](https://github.com/) with:
+You can download the development version from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
@@ -21,9 +22,8 @@ devtools::install_github("lmuenter/moody")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+The app is started using the command
 
 ``` r
-library(moody)
-## basic example code
+moody::runApp()
 ```
