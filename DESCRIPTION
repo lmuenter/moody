@@ -1,10 +1,10 @@
 Package: moody
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A shiny digital diary for getting better everyday
 Version: 0.1.0
-Author: Who wrote it
+Author: Simon Trautwein, Lukas Muenter
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Description: TBD
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
 Encoding: UTF-8
