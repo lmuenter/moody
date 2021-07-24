@@ -22,7 +22,7 @@ devtools::install_github("lmuenter/moody")
 
 ## Example
 
-The app is started using the command
+The app is started using the command:
 
 ``` r
 moody::runApp()
