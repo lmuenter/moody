@@ -45,3 +45,8 @@ edit_r_environ()
 5. Click `create project`
 
 ## Working on the repo
+
+Now, we can start working on the actual repository. We will create the markdown-document "hello_world.md" in the directory "dev/examples".
+
+Our main goal in using Git is to prevent conflicts. Therefore, we will not immediately add to the main repository (`master branch`). Instead, we will branch-off the repository, edit the branch, and ask others if they want our changes to be canon (`pull request`).
+
