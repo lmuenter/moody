@@ -1,6 +1,6 @@
 # Getting Started
 
-This chapter will provide guidance on how to get started. First, we will install and integrate git. Afterwards, we will add GitHub-Access to RStudio. Lastly, we will clone the repository, add a features in a feature branch, and create a pull-request for merging our features with the master branch. This may sound complicated, but it really isn't.
+This chapter will provide guidance on how to get started. First, we will install and integrate Git. Afterwards, we will add GitHub-Access to RStudio. Lastly, we will clone the repository, add a features in a feature branch, and create a pull-request for merging our features with the master branch. This may sound complicated, but it really isn't.
 
 ## Installing Git
 
