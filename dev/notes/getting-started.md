@@ -57,7 +57,7 @@ Now, we can start working on the actual repository. We will create the markdown-
 2. RStudio will open. Now you can start working.
 3. Look at your navgation panel. You will find a new tab `Git` next to `Environment`, `History` and `Files`.
 
-![](../figs/RStudio-git-panel)
+![]("dev/figs/RStudio-git-panel.JPG")
 
 4. Make a new branch called `example`. Now you are not in `master` anymore!
 
