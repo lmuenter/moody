@@ -12,7 +12,7 @@
 moody <- function() {
 
   ## localise the app
-  appDir <- system.file("moody", "app", package = "moody")
+  appDir <- system.file("shiny-examples", "myapp", package = "moody")
 
 
   ## warn if something is wrong
