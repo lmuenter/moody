@@ -12,3 +12,4 @@ LazyData: true
 URL: https://github.com/lmuenter/moody
 BugReports: https://github.com/lmuenter/moody/issues
 RoxygenNote: 7.1.1
+Imports: shiny

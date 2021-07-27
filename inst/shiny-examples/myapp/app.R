@@ -5,7 +5,7 @@
 
 # PACKAGES =====================
 
-library(shiny)
+#library(shiny)
 
 # UI ===========================
 
