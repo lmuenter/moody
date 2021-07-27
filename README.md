@@ -25,5 +25,11 @@ devtools::install_github("lmuenter/moody")
 The app is started using the command:
 
 ``` r
-moody::runApp()
+moody::moody()
 ```
+
+## App structure
+
+  - **App Location** The app is located under
+    `inst/shiny-examples/myapp/`.
+  - **Functions** Callable functions are located under `R/`
